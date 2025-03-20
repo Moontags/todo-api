@@ -1,0 +1,18 @@
+{
+  "name": "todo-list-app-backend",
+  "version": "1.0.0",
+  "description": "To-Do List Backend with Express and MongoDB",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

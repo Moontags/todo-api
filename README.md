@@ -17,5 +17,5 @@ A simple full-stack **To-Do List App** built with **Next.js (TypeScript)** for t
 
 ---
 
-## 📥 **Installation (Run Locally)**
+
 
